@@ -22,6 +22,7 @@ public class Examped {
         System.out.println("InicioRama");
         
         System.out.println("Rama 1");
+        System.out.println("Rama 2");
     }
     
 }
