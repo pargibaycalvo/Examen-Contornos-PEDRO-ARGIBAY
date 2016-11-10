@@ -19,6 +19,7 @@ public class Examped {
         //según el esquema y orden de las letras. Al final tiene que haber un merge
         
         System.out.println("Hola");
+        System.out.println("InicioRama");
     }
     
 }
